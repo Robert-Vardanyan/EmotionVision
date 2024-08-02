@@ -1,25 +1,63 @@
-# Анализ Эмоций в Реальном Времени
+# EmotionVision: Реальный Анализ Эмоций
 
-![Emotion Detection Example](images/emotion_detection_example.jpg)
+Инструмент для анализа эмоций в реальном времени с использованием веб-камеры и библиотеки FER!
 
-Этот проект реализует анализ эмоций в реальном времени с использованием веб-камеры и библиотеки `FER` (Facial Emotion Recognition). Программа распознаёт лица на видео и определяет доминирующую эмоцию для каждого лица, отображая её поверх видеопотока.
+## Описание
 
-## Возможности
+EmotionVision предоставляет возможность анализировать и распознавать эмоции в режиме реального времени, используя видео с вашей веб-камеры. Программа распознаёт лица, определяет доминирующие эмоции и отображает их поверх видеопотока. Это может быть полезно для создания интерактивных приложений и проведения исследований.
 
-- Анализ эмоций с использованием веб-камеры в реальном времени.
-- Определение таких эмоций, как счастье, грусть, гнев и другие.
-- Отображение доминирующей эмоции на экране.
+## Как запустить проект
 
-## Требования
+1. Убедитесь, что у вас установлен Python 3.x.
+2. Создайте виртуальное окружение и активируйте его:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # Для Windows используйте `venv\Scripts\activate`
+    ```
+3. Установите зависимости из файла `requirements.txt`:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Скачайте или клонируйте этот репозиторий.
+5. Запустите файл `emotion_analysis.py`:
+    ```bash
+    python emotion_analysis.py
+    ```
+
+## Примеры использования
+
+- Включите веб-камеру и наблюдайте за распознаванием эмоций в реальном времени.
+- Программа отображает доминирующую эмоцию для каждого обнаруженного лица на видео.
+- Нажмите `q`, чтобы выйти из программы.
+
+## Зависимости
 
 - Python 3.x
-- [OpenCV](https://pypi.org/project/opencv-python/)
-- [FER](https://pypi.org/project/fer/)
+- OpenCV
+- FER (Facial Emotion Recognition)
 
-## Установка
+## Инструкция по установке
 
-1. **Клонируйте репозиторий на ваш локальный компьютер:**
+1. Установите Python 3.x, если он еще не установлен. [Скачать Python](https://www.python.org/downloads/)
+2. Создайте виртуальное окружение и активируйте его:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # Для Windows используйте `venv\Scripts\activate`
+    ```
+3. Установите зависимости из файла `requirements.txt`:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Скачайте этот репозиторий или клонируйте его с помощью Git:
+    ```bash
+    git clone https://github.com/your-username/emotionvision.git
+    ```
 
-   ```bash
-   git clone https://github.com/your-username/real-time-emotion-analysis.git
-   cd real-time-emotion-analysis
+### Примеры:
+
+## Видео 1
+![Emotion Detection Example](https://github.com/user-attachments/assets/emotion_example_1.jpg)
+
+## Видео 2
+![Emotion Detection Example 2](https://github.com/user-attachments/assets/emotion_example_2.jpg)
+
