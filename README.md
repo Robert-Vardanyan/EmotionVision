@@ -50,7 +50,7 @@ EmotionVision предоставляет возможность анализир
     ```
 4. Скачайте этот репозиторий или клонируйте его с помощью Git:
     ```bash
-    git clone https://github.com/your-username/emotionvision.git
+    git clone https://github.com/Robert-Vardanyan/EmotionVision.git
     ```
 
 ### Примеры:
