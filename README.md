@@ -53,11 +53,10 @@ EmotionVision предоставляет возможность анализир
     git clone https://github.com/Robert-Vardanyan/EmotionVision.git
     ```
 
-### Примеры:
+## Как это работает ?!
+### А вот так!
+![664d6fec8ce56bb678b9d215_Facial emotion recognition](https://github.com/user-attachments/assets/6cc621e7-4de1-463b-85b4-dabaa40e76c5)
+![664daf003f6201d7c821dd0a_4 Steps for Recognizing Facial Expressions and Emotions](https://github.com/user-attachments/assets/603d5176-4c2f-4f19-97b7-f30d224a077c)
 
-## Видео 1
-![Emotion Detection Example](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aratek.co%2Fes%2Fnews%2Fhow-does-facial-emotion-recognition-express-your-feelings&psig=AOvVaw3IUtv-CQizD9fJyX3Ka0hp&ust=1722701520456000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC6_LvZ1ocDFQAAAAAdAAAAABAE)
 
-## Видео 2
-![Emotion Detection Example 2](https://github.com/user-attachments/assets/emotion_example_2.jpg)
 
