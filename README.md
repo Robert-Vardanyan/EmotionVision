@@ -56,7 +56,7 @@ EmotionVision предоставляет возможность анализир
 ### Примеры:
 
 ## Видео 1
-![Emotion Detection Example](https://github.com/user-attachments/assets/emotion_example_1.jpg)
+![Emotion Detection Example](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aratek.co%2Fes%2Fnews%2Fhow-does-facial-emotion-recognition-express-your-feelings&psig=AOvVaw3IUtv-CQizD9fJyX3Ka0hp&ust=1722701520456000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC6_LvZ1ocDFQAAAAAdAAAAABAE)
 
 ## Видео 2
 ![Emotion Detection Example 2](https://github.com/user-attachments/assets/emotion_example_2.jpg)
