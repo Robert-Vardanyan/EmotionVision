@@ -8,21 +8,28 @@ EmotionVision предоставляет возможность анализир
 
 ## Как запустить проект
 
-1. Убедитесь, что у вас установлен Python 3.x.
-2. Создайте виртуальное окружение и активируйте его:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # Для Windows используйте `venv\Scripts\activate`
-    ```
-3. Установите зависимости из файла `requirements.txt`:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Скачайте или клонируйте этот репозиторий.
-5. Запустите файл `emotion_analysis.py`:
-    ```bash
-    python emotion_analysis.py
-    ```
+1. Клонируйте репозиторий:
+   ```bash
+   git clon https://github.com/Robert-Vardanyan/EmotionVision.git
+
+2. Перейдите в каталог проекта:
+   ```bash
+   cd EmotionVision
+
+3. Создайте виртуальное окружение и активируйте его:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Для Linux/Mac
+   venv\Scripts\activate  # Для Windows
+
+4. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+
+5. Запустите файл emotion_analysis.py:
+   ```bash
+   python emotion_analysis.py
+
 
 ## Примеры использования
 
@@ -30,28 +37,13 @@ EmotionVision предоставляет возможность анализир
 - Программа отображает доминирующую эмоцию для каждого обнаруженного лица на видео.
 - Нажмите `q`, чтобы выйти из программы.
 
+
 ## Зависимости
 
 - Python 3.x
 - OpenCV
 - FER (Facial Emotion Recognition)
 
-## Инструкция по установке
-
-1. Установите Python 3.x, если он еще не установлен. [Скачать Python](https://www.python.org/downloads/)
-2. Создайте виртуальное окружение и активируйте его:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # Для Windows используйте `venv\Scripts\activate`
-    ```
-3. Установите зависимости из файла `requirements.txt`:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Скачайте этот репозиторий или клонируйте его с помощью Git:
-    ```bash
-    git clone https://github.com/Robert-Vardanyan/EmotionVision.git
-    ```
 
 ## Как это работает ?!
 ### А вот так!
